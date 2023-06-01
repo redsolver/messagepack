@@ -1,4 +1,4 @@
-import 'package:messagepack/messagepack.dart';
+import 'package:s5_msgpack/messagepack.dart';
 
 void simple() {
   final p = Packer();

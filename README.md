@@ -20,7 +20,7 @@ For the simplest data packaging to bytes packet like this:
 ### Packer part
 
 ```dart
-import 'package:messagepack/messagepack.dart';
+import 'package:s5_msgpack/messagepack.dart';
 ```
 
 ```dart
