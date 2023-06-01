@@ -1,6 +1,6 @@
 Streaming API implementation of [MessagePack](https://msgpack.org/) binary serialization format - msgpack.
 
-[![pub package](https://img.shields.io/pub/v/messagepack.svg)](https://pub.dartlang.org/packages/messagepack)
+[![pub package](https://img.shields.io/pub/v/s5_msgpack.svg)](https://pub.dartlang.org/packages/s5_msgpack)
 [![MIT License](https://img.shields.io/badge/License-BSD3-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ## The basics
@@ -20,7 +20,7 @@ For the simplest data packaging to bytes packet like this:
 ### Packer part
 
 ```dart
-import 'package:s5_msgpack/messagepack.dart';
+import 'package:s5_msgpack/s5_msgpack.dart';
 ```
 
 ```dart
